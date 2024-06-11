@@ -765,6 +765,13 @@ h3.my-profession {
     }
 }
 
+@media (max-width:440px){
+    .about .about-content .skills {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
 @media (max-width:750px){
     .service .service-item,
     .aboout .about-content .skills,
