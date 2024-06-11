@@ -759,14 +759,7 @@ h3.my-profession {
     .portfolio .portfolio-item,
     .service .service-item,
     .about .about-content .personal-info .info-item,
-    .about .about-content .skills .progress .progress-in{
-        flex: 0 0 100%;
-        max-width: 100%;
-    }
-}
-
-@media (max-width:440px){
-    .about .about-content .skills {
+    .about .about-content .skills{
         flex: 0 0 100%;
         max-width: 100%;
     }
