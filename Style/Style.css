@@ -759,7 +759,8 @@ h3.my-profession {
     .portfolio .portfolio-item,
     .service .service-item,
     .about .about-content .personal-info .info-item,
-    .about .about-content .skills{
+    .about .about-content .skills, 
+    body{
         flex: 0 0 100%;
         max-width: 100%;
     }
