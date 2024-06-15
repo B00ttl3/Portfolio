@@ -768,7 +768,7 @@ h3.my-profession {
 
 @media (max-width:750px){
     .service .service-item,
-    .aboout .about-content .skills,
+    .about .about-content .skills,
     .about .about-content .personal-info{
         flex: 0 0 100%;
         max-width: 100%;
